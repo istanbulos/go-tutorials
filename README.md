@@ -7,13 +7,12 @@
 ### Table of Contents
 
 - [Tutorials](#Tutorials)
-  - [Golang Tour](#Golang-Tour)
-  - [Go By Examples](#Go-By-Examples)  
+  - [Golang-Tour](#Golang-Tour)
+  - [Go-By-Examples](#Go-By-Examples) 
 
 ## Tutorials
 ### Golang-Tour : https://tour.golang.org
 ### Go-By-Examples : https://gobyexample.com/
-
 
 ### License
 

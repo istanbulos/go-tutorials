@@ -6,12 +6,13 @@
 
 ### Table of Contents
 
-- [Programming Languages/Frameworks/Platforms](#programming-languagesframeworksplatforms)
-  - [Revel](#Revel)
+- [Tutorials](#Tutorials)
+  - [Golang Tour](#Golang-Tour)
+  - [Go By Examples](#Go-By-Examples)  
 
-## Programming Languages/Frameworks/Platforms
-
-### Revel
+## Tutorials
+### Golang-Tour : https://tour.golang.org
+### Go-By-Examples : https://gobyexample.com/
 
 
 ### License

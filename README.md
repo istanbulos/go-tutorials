@@ -21,4 +21,4 @@
 
 ### License
 
-![apache_logo](https://user-images.githubusercontent.com/21153996/53680433-95854b80-3cec-11e9-8028-5521f628225a.jpeg)
+[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) 
